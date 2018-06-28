@@ -13,6 +13,8 @@ Wybierz pasujący sposób dodania:
 
 1. Tylko HTML:
 
-plik acta2modal-html.html
+plik acta2modal-html.html | Dodaj cały kod jako HTML (HTML, Styles, Js)
+
+
 
 

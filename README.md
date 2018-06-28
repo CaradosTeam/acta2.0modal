@@ -1,5 +1,5 @@
 # Acta 2.0 Modal
-Modal with information about acta 2.0. Can you add this to your website to make more strong opportunities. 
+Modal with information about acta 2.0. Can you add this to your website to make stronger opportunities of mutiny. 
 
 # Version ENG
 
@@ -11,7 +11,7 @@ Select best option for you:
 
 1. Only HTML:
 
-file acta2modal-eng.html |  Add all of this code as html (HTM, Styles, Js)
+file acta2modal-eng.html |  Add all of this code as html (HTM, Styles, Js),
 
 # Wersja PL
 
@@ -23,7 +23,7 @@ Wybierz pasujący sposób dodania:
 
 1. Tylko HTML:
 
-plik acta2modal-html.html | Dodaj cały kod jako HTML (HTML, Styles, Js)
+plik acta2modal-html.html | Dodaj cały kod jako HTML (HTML, Styles, Js),
 
 
 

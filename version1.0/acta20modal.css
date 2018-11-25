@@ -1,0 +1,55 @@
+ #acta2-modal {
+	max-width: 600px;
+	max-height: 600px;
+	display: block;
+	margin: auto;
+	position: fixed;
+	  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	box-shadow: 0 0 6px 2px black;
+	background: #e2e2e2;
+	font-size: 17px;
+	transition: 1s ease;
+}
+#acta2-modal h1{ 
+	margin: 0;
+}
+#acta2-modal div {
+	padding: 10px;
+}
+#acta2-modal span#acta2-actionbutton {
+	font-size: 35px;
+	font-weight: bolder;
+	position: absolute;
+	right: 3px; top: 3px;
+	border-radius: 50%;
+	width: 42px; height: 39px;
+	text-align: center;
+}
+#acta2-modal #acta2-actionbutton:hover {
+	cursor: pointer;
+	color: #824343;
+}
+#acta2-modal  #acta2-modal-header {
+	background: #bf7878;
+	
+}
+#acta2-modal button {
+	border: 0;
+	background: #9b4545;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+	transition: 0;
+	margin: 5px;
+}
+#acta2-modal button:hover {
+   	background: #bc5151;
+	cursor: pointer;
+}
+	
+#acta2-modal-container {
+ overflow: auto;
+ max-height: 250px;
+}
